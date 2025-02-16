@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "table": 15,
+    "date_time": "01-02-2025 13:21:37",
+    "items": [
+        {
+            "name": "Arroz Marinero",
+            "quantity": 1
+        },
+        {
+            "name": "Jugos de naranja",
+            "quantity": 2
+        }
+    ]
+}

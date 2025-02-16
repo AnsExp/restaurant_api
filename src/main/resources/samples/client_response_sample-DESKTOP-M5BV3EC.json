@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "firstname": "Jorge",
+    "lastname": "Hoyos",
+    "invoices": [
+        {
+            "id": 1,
+            "date_time": 1
+        }
+    ]
+}

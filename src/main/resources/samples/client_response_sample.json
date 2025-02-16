@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "firstname": "Jorge",
+    "lastname": "Hoyos",
+    "invoices": [
+        {
+            "id": 1
+        }
+    ]
+}
